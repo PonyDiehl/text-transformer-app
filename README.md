@@ -3,7 +3,7 @@
 *"Wake up, Neo... The matrix has you."*  
 Create cyberpunk-style text with glitching effects and a falling code background!
 
-[![Demo Preview](./media/demo.gif)](https://your-demo-link.com)  
+[![Demo Preview] https://text-transformer-app.vercel.app/
 *Watch text transform with digital glitches!*
 
 ## 🚀 Quick Start
